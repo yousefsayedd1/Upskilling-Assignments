@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\bin\Debug\net8.0\Day3.2.exe
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\bin\Debug\net8.0\Day3.2.deps.json
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\bin\Debug\net8.0\Day3.2.runtimeconfig.json
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\bin\Debug\net8.0\Day3.2.dll
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\bin\Debug\net8.0\Day3.2.pdb
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\Day3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\Day3.2.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\Day3.2.AssemblyInfo.cs
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\Day3.2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\Day3.2.dll
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\refint\Day3.2.dll
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\Day3.2.pdb
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\Day3.2.genruntimeconfig.cache
+C:\Users\asus\Desktop\Programming\Backend\upskilling .net advanced\code\Upskilling\Day4\Day3.2\obj\Debug\net8.0\ref\Day3.2.dll
